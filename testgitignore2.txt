@@ -1,0 +1,2 @@
+sThis is a file we don't want to ignore
+This should show up in the list
